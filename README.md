@@ -42,7 +42,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: https://github.com/Nbnita/order_summary.github.io
-- Live Site URL: 
+- Live Site URL: https://nbnita.github.io/order_summary.github.io/
 
 ## My process
 
@@ -98,7 +98,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - https://nbnita.github.io/order_summary.github.io/
 - Frontend Mentor - https://www.frontendmentor.io/profile/Nbnita
 - Twitter - 
 
